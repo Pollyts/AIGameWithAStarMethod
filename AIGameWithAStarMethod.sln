@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIGameWithAStarMethod", "AIGameWithAStarMethod\AIGameWithAStarMethod.csproj", "{E5B8C5A7-C0F5-4BDF-8B94-6BBED0D0DD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B8C5A7-C0F5-4BDF-8B94-6BBED0D0DD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B8C5A7-C0F5-4BDF-8B94-6BBED0D0DD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B8C5A7-C0F5-4BDF-8B94-6BBED0D0DD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B8C5A7-C0F5-4BDF-8B94-6BBED0D0DD83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB5F720-1EF5-4D4B-A6F2-84C00CE7D26D}
+	EndGlobalSection
+EndGlobal

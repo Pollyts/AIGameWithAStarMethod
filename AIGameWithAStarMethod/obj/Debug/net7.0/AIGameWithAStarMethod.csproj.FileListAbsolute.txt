@@ -1,0 +1,15 @@
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\bin\Debug\net7.0\AIGameWithAStarMethod.exe
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\bin\Debug\net7.0\AIGameWithAStarMethod.deps.json
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\bin\Debug\net7.0\AIGameWithAStarMethod.runtimeconfig.json
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\bin\Debug\net7.0\AIGameWithAStarMethod.dll
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\bin\Debug\net7.0\AIGameWithAStarMethod.pdb
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\AIGameWithAStarMethod.csproj.AssemblyReference.cache
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\AIGameWithAStarMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\AIGameWithAStarMethod.AssemblyInfoInputs.cache
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\AIGameWithAStarMethod.AssemblyInfo.cs
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\AIGameWithAStarMethod.csproj.CoreCompileInputs.cache
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\AIGameWithAStarMethod.dll
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\refint\AIGameWithAStarMethod.dll
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\AIGameWithAStarMethod.pdb
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\AIGameWithAStarMethod.genruntimeconfig.cache
+C:\Users\Polina Tselischeva\Desktop\Mendelu\AIGameWithAStarMethod\AIGameWithAStarMethod\obj\Debug\net7.0\ref\AIGameWithAStarMethod.dll
